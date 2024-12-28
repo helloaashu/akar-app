@@ -31,7 +31,7 @@ dependencies:
   flutter:
     sdk: flutter
   intl: ^0.19.0  # Add the intl package
-  carousel_slider: ^4.2.1
+  carousel_slider: ^5.0.0
 
 
   # The following adds the Cupertino Icons font to your application.
